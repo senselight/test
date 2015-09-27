@@ -1,0 +1,8 @@
+baseurl = "http://blogs.lei.glass/"
+languageCode = "en-us"
+title = "Lei"
+theme = "hyde"
+
+[params]
+    description = "Lei的日常"
+    themeColor = "theme-base-08" # for hyde theme
